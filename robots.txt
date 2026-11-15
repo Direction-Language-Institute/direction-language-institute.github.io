@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://direction-language-institute.github.io/sitemap.xml
